@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Katrice Sutherland - Resume</title>
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #F4E9CD;
+        }
+        header {
+            background: #031926;
+            color: #F4E9CD;
+            padding: 20px;
+            text-align: center;
+            border-bottom: #468189 5px solid;
+        }
+        header img {
+            width: 150px;
+            height: auto;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .main-content {
+            background: #FFFFFF;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+        h2 {
+            background: #468189;
+            color: #FFFFFF;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .contact-info a {
+            color: #031926;
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="path-to-your-photo.jpg" alt="Katrice Sutherland">
+            <h1>Katrice Sutherland</h1>
+        </div>
+    </header>
+
+    <div class="container main-content">
+        <section class="contact-info">
+            <h2>Contact Information</h2>
+            <p>Email: <a href="mailto:sutherlandkatrice@gmail.com">sutherlandkatrice@gmail.com</a></p>
+            <p>Phone: <a href="tel:+17057709673">705-770-9673</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/sutherlandkatrice/" target="_blank">LinkedIn Profile</a></p>
+        </section>
+
+        <section class="about">
+            <h2>About Me</h2>
+            <p>Resourceful, bright and convivial. Exceptional hospitality skills. Skilled in logistics, people, operations and event management, administrative tasks. Thrives best in small one-on-one client interactions that offer VIP environments and experiences, boutique luxury products.</p>
+            <p>My goal is to someday own a small business - an inn with an artisan coffee shop and international wine bar. With this space, I intend to nourish a community that fosters appreciation for high-quality products, ingredients, and thoughtfully crafted experiences.</p>
+        </section>
+
+        <section class="experience">
+            <h2>Experience</h2>
+            <div>
+                <h3>General Manager</h3>
+                <p>Lightning Rock Winery, Summerland | April 2022 – Present</p>
+                <ul>
+                    <li>Oversee sales, daily operations of tasting room, quarterly wine club, shipping and logistics, administration, wholesale order desk, and accounts payable.</li>
+                    <li>Coordinate events including off-site pop-ups, in-house gatherings, weddings, and fundraisers.</li>
+                    <li>Occasionally assist with harvest activities.</li>
+                </ul>
+            </div>
+            <div>
+                <h3>Front Desk / Concierge</h3>
+                <p>Naramata Inn, Naramata | June 2021 – September 2021 and February 2022 – April 2022</p>
+            </div>
+            <div>
+                <h3>Hospitality Manager</h3>
+                <p>Foxtrot Vineyards | March 2020 – February 2022</p>
+            </div>
+            <div>
+                <h3>Wine Club Concierge</h3>
+                <p>Noble Ridge Winery, Okanagan Falls | February 2019 – March 2020</p>
+            </div>
+        </section>
+
+        <section class="education">
+            <h2>Education</h2>
+            <div>
+                <h3>Wine and Spirits Education Trust</h3>
+                <p>Levels 1, 2, and 3. Passed with distinction and honors from Fine Vintage Ltd.</p>
+            </div>
+            <div>
+                <h3>Georgian College</h3>
+                <p>Certificate in Entrepreneurial and Small Business Operations | 2014 – 2015</p>
+            </div>
+            <div>
+                <h3>Algonquin College of Applied Arts and Technology</h3>
+                <p>Bachelor of Journalism and Broadcast</p>
+                <ul>
+                    <li>Activities and societies: Algonquin Times College Newspaper - Entertainment beat reporter and copywriter.</li>
+                    <li>Office Manager - Administration, managing newspaper archives, logistics, and distribution of college newspapers.</li>
+                    <li>Media Club Vice-President - Assisted in arranging live interviews and social media content creation at the Student Commons Media Cafe.</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>Speaks English, conversational French and Italian, basic German</li>
+                <li>Writing • Copywriting • Content Strategy • Marketing Consulting • Event Planning • Project Management • Change Management • Bookkeeping • Graphic Design • Customer Service</li>
+                <li>Technical Skills: Accounting, high computer literacy, operating systems such as Ollie Order, Wine Direct, WineShipper, Commerce7, new product development, basic HTML coding, data analysis</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
